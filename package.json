@@ -1,0 +1,16 @@
+{
+  "name": "node.js-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "ts-node app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.3.1",
+    "tesseract.js": "^2.1.5",
+    "ts-node": "^10.4.0"
+  }
+}
